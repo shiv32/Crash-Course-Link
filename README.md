@@ -1,2 +1,2 @@
 Crash Courses Links
-C++, Java, C#
+C++, Java, C#, Python
