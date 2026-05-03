@@ -1,5 +1,5 @@
 
-[C++ crash course](https://youtu.be/mlIUKyZIUUU?si=Ot4hqztN-dH1UyaY)
+[C++ OOPs Tutorial in One Shot](https://youtu.be/mlIUKyZIUUU?si=Ot4hqztN-dH1UyaY)
 
 [C++ Tutorial for Beginners](https://youtu.be/ZzaPdXTrSb8?si=MnTx8NaCl4IIAYS1)
 
