@@ -1,6 +1,12 @@
 
 [C++ crash course](https://youtu.be/mlIUKyZIUUU?si=Ot4hqztN-dH1UyaY)
 
+[C++ Tutorial for Beginners](https://youtu.be/ZzaPdXTrSb8?si=MnTx8NaCl4IIAYS1)
+
+[C++ Basics in One Shot](https://youtu.be/EAR7De6Goz4?si=bSqTzK3o5ztqT9mb)
+
+[C++ Crash Course For Beginners](https://youtu.be/1v_4dL8l8pQ?si=owDaQYMjig7oOWk5)
+
 [Java crash course](https://youtu.be/UmnCZ7-9yDY?si=3WvrjJ07fka52GRA)
 
 [Master Java FAST](https://youtu.be/7-lK9EpBS_Y?si=wvT5e3eyjYE5wH0V)
