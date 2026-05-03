@@ -7,7 +7,7 @@
 
 [C++ Crash Course For Beginners](https://youtu.be/1v_4dL8l8pQ?si=owDaQYMjig7oOWk5)
 
-[Java crash course](https://youtu.be/UmnCZ7-9yDY?si=3WvrjJ07fka52GRA)
+[Java Tutorial for Beginners](https://youtu.be/UmnCZ7-9yDY?si=3WvrjJ07fka52GRA)
 
 [Master Java FAST](https://youtu.be/7-lK9EpBS_Y?si=wvT5e3eyjYE5wH0V)
 
