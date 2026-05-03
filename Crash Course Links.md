@@ -1,6 +1,10 @@
 
 [Crash Course in C Programming](https://youtu.be/yLNWu6AxftI?si=7ysRjSGzkgbcwx9p)
 
+[C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=R1lN30MOvFGvMcxi)
+
+[C Programming Tutorial](https://youtu.be/YXcgD8hRHYY?si=ihw5Pp9fPnViz1Sa)
+
 [C++ OOPs Tutorial in One Shot](https://youtu.be/mlIUKyZIUUU?si=Ot4hqztN-dH1UyaY)
 
 [C++ Tutorial for Beginners](https://youtu.be/ZzaPdXTrSb8?si=MnTx8NaCl4IIAYS1)
