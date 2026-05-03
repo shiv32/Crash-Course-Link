@@ -11,6 +11,8 @@
 
 [Master Java FAST](https://youtu.be/7-lK9EpBS_Y?si=wvT5e3eyjYE5wH0V)
 
+[Java Full Course for Beginners](https://youtu.be/eIrMbAQSU34?si=D8MIVQy2awKxnneJ)
+
 [C# crash course](https://youtu.be/gfkTfcpWqAY?si=meikkTPN5k7O09Iv)
 
 [Learn C# BASICS in 10 MINUTES!](https://youtu.be/IFayQioG71A?si=8KRJlR60WQo7_nFd)
