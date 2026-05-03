@@ -33,3 +33,11 @@ C#
 Python
 
 [Python Full Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=QALZNkeT4Z_QXfjd)
+
+DSA
+
+[Data Structures and Algorithms for Beginners](https://youtu.be/BBpAmxU_NQo?si=97fAe2JcsowhmV5G)
+
+Object-Oriented Programming
+
+[Object-Oriented Programming, Simplified](https://youtu.be/pTB0EiLXUC8?si=qoi61_s8oryeyqoX)
