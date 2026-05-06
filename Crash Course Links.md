@@ -47,3 +47,7 @@ PHP
 [PHP For Beginners](https://youtu.be/BUCiSSyIGGU?si=0x4bF7m_n_4lOGZ6)
 
 [Learn Object Oriented PHP](https://youtu.be/uUlLAfN3rJc?si=6UvZjQDI1ZExtjdT)
+
+Freemium educational website 
+
+[W3Schools](https://www.w3schools.com/)
