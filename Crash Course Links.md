@@ -24,6 +24,8 @@ Java
 
 [Java Full Course for Beginners](https://youtu.be/eIrMbAQSU34?si=D8MIVQy2awKxnneJ)
 
+[Java project](https://youtube.com/playlist?list=PLZTETldyguF1CMO3rT064ghxr-m2qyJ9J&si=EDtM0Eaimz2ohcQe)
+
 C#
 
 [C# Tutorial For Beginners](https://youtu.be/gfkTfcpWqAY?si=meikkTPN5k7O09Iv)
