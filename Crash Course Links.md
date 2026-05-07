@@ -34,6 +34,10 @@ Python
 
 [Python Full Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=QALZNkeT4Z_QXfjd)
 
+[OOPS in Python-1](https://youtu.be/HeW-D6KpDwY?si=ScOs62COtrR7c8ao)
+
+[OOPS in Python-2](https://youtu.be/bAwmZVJeO5s?si=fwb017XL85f6G0ku)
+
 DSA
 
 [Data Structures and Algorithms for Beginners](https://youtu.be/BBpAmxU_NQo?si=97fAe2JcsowhmV5G)
