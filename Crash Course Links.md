@@ -30,6 +30,8 @@ C#
 
 [Learn C# BASICS in 10 MINUTES!](https://youtu.be/IFayQioG71A?si=8KRJlR60WQo7_nFd)
 
+[C# Beginner Projects](https://youtube.com/playlist?list=PLm9GTh6TKrHOW8-eWabg6ETm95ajMid3b&si=qKT936OxnWU8sWtg)
+
 Python
 
 [Python Full Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=QALZNkeT4Z_QXfjd)
