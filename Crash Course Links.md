@@ -34,6 +34,8 @@ C#
 
 [C# Beginner Projects](https://youtube.com/playlist?list=PLm9GTh6TKrHOW8-eWabg6ETm95ajMid3b&si=qKT936OxnWU8sWtg)
 
+[C# Projects](https://youtube.com/playlist?list=PLeBAXy1yQxa5iVZ3QenQeey2b57hnL2Fx&si=IXETxkYq0TLm02BC)
+
 Python
 
 [Python Full Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=QALZNkeT4Z_QXfjd)
