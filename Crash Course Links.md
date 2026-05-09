@@ -20,6 +20,8 @@ Java
 
 [Java Tutorial for Beginners](https://youtu.be/UmnCZ7-9yDY?si=3WvrjJ07fka52GRA)
 
+[Java OOPs in One Shot ](https://youtu.be/bSrm9RXwBaI?si=tTqiFDYWhpL28i8V)
+
 [Master Java FAST](https://youtu.be/7-lK9EpBS_Y?si=wvT5e3eyjYE5wH0V)
 
 [Java Full Course for Beginners](https://youtu.be/eIrMbAQSU34?si=D8MIVQy2awKxnneJ)
